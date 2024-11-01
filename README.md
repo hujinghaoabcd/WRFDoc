@@ -16,7 +16,7 @@
 
 ## 介绍
 <p align="center">
-    <img src="docs/images/screen.png" width="85%" />
+    <img src="docs/images/screen2.png" width="85%" />
 </p>
 
 WRF-ARW (Advanced Research Weather Research and Forecasting) 是一个功能强大的大气建模系统。该中文文档汇集了模型配置、运行和分析的全面指南，帮助研究人员和工程师更高效地使用WRF-ARW模型。
