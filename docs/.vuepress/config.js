@@ -6,6 +6,7 @@ import { copyCodePlugin } from '@vuepress/plugin-copy-code'
 import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
+  base: "/",
   bundler: viteBundler(),
   plugins: [
     nprogressPlugin(),
