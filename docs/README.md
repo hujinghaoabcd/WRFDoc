@@ -1,7 +1,7 @@
 ---
 home: true
 isShowTitleInHome: true
-heroImage: /images/logo.png
+heroImage: /images/wrf.svg
 heroText: 'WRF-ARW 中文文档'
 tagline: '提供全面的 WRF-ARW 模型使用指南与技术支持'
 footer: '版权所有 © 2024 hujinghao | 中国科学院大学 (UCAS)'

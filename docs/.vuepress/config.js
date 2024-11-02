@@ -17,7 +17,7 @@ export default defineUserConfig({
   ],
   theme: defaultTheme({
     home:'/',
-    logo: '/images/logo.png',
+    logo: '/images/wrf.svg',
     repo: 'hujinghaoabcd/WRFDoc',
     lastUpdated: 'true',
     navbar: [

@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="docs/images/logo.png" width="30%" />
+    <img src="docs/images/wrf.svg" width="30%" />
 </p>
 
 <h1 align='center'>WRF-ARW 中文文档</h1>
