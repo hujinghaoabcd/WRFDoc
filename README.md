@@ -34,7 +34,7 @@ WRF-ARW (Advanced Research Weather Research and Forecasting) 是一个功能强�
 
 [WRF-ARW 中文文档](https://hujinghaoabcd.github.io/WRFDoc/) 
 <p align="center">
-    <img src="docs/images/screen2.png" width="85%" />
+    <img src="docs/images/screen.png" width="85%" />
 </p>
 
 有关项目的更多信息与官方资源，请访问以下链接：
